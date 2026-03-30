@@ -4,8 +4,6 @@ Este projeto consiste em uma aplicação de lista de tarefas (To-Do List) desenv
 
 A aplicação permite ao usuário organizar suas tarefas de forma simples, intuitiva e visual, acompanhando seu progresso em tempo real.
 
-~Objetivo do Projeto~
-
 O principal objetivo deste projeto foi consolidar conceitos fundamentais do desenvolvimento front-end, como:
 
 Manipulação de elementos com JavaScript
@@ -14,7 +12,7 @@ Estruturação com HTML semântico
 Estilização com CSS moderno
 Persistência de dados com LocalStorage
 
-~Funcionalidades~
+Funcionalidades:
 ✅ Adicionar novas tarefas
 ✏️ Editar tarefas existentes
 🗑️ Remover tarefas
@@ -24,7 +22,7 @@ Persistência de dados com LocalStorage
 🎉 Animação de confete ao completar todas as tarefas
 🖼️ Exibição de estado vazio (quando não há tarefas)
 
-~Conceitos Aplicados~
+Conceitos Aplicados:
 
 Durante o desenvolvimento, foram aplicados diversos conceitos importantes:
 
@@ -35,7 +33,7 @@ Armazenamento local: uso do localStorage para salvar e recuperar tarefas
 Lógica de estado: controle de tarefas concluídas e progresso
 UX/UI: feedback visual com barra de progresso e animação
 
-~Diferenciais do Projeto~
+Diferenciais do Projeto:
 
 Este projeto vai além de uma To-Do List básica, trazendo melhorias como:
 
